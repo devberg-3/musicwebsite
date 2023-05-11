@@ -1,0 +1,195 @@
+body{
+    border:10px outset red;
+    }
+    nav{
+    height:60px;
+    width: 100%;
+    overflow: auto;
+    background: black;
+    }
+    ul{
+    padding: 0;
+    margin: 0 0 0 250px;
+    list-style: none;
+    }
+    li{
+    float:left;
+    }
+    li a{
+    width: 100px;
+    display: blue;
+    padding: 6px 20px;
+    text-decoration: none;
+    font-family: arial;
+    color: white;
+    text-align: center;
+    }
+    li a:hover{
+    background: gray;
+    }
+    .logo img{
+    height:50px;
+    width:200px;
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 10px;
+    }
+    .mus{
+    width: 40%;
+    float: left;
+    margin-left: 30px;
+    margin-right: 40px;
+    padding: 20px;
+    }
+    .mus img{
+    height: 600px;
+    }
+    p {
+      color: navy;
+      text-indent: 30px;
+      font-family:Bodoni MT;
+      font-size: 20px;
+    }
+    h3{
+    text-align:left;
+    color:#9932CC;
+    font-family:Century Gothic;
+    }
+    h2{
+      text-align:center;
+      color: #750037;
+      font-family:Rockwell;
+    }
+    .btn {
+      background-color: #f44336;
+      border: none;
+      color: white;
+      padding: 15px 45px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+    .btn1 {
+      background-color: #0014c7;
+      border: none;
+      color: white;
+      padding: 15px 45px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+    .btn2 {
+      background-color: #02c3f3;
+      border: none;
+      color: white;
+      padding: 15px 45px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+    .btn3 {
+      background-color: #00f500;
+      border: none;
+      color: white;
+      padding: 15px 45px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+    .btn4{
+      background-color: #f3008e;
+      border: none;
+      color: white;
+      padding: 15px 45px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+    .btn5 {
+      background-color: #dc00f0;
+      border: none;
+      color: white;
+      padding: 15px 45px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+    
+    .btn6 {
+      background-color: #750037;
+      border: none;
+      color: white;
+      padding: 15px 45px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+    
+    .btn7 {
+      background-color: #0408ff;
+      border: none;
+      color: white;
+      padding: 15px 45px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;  
+      font-size: 16px;
+    }
+    
+    .btn8 {
+      background-color: #0e0d0c;
+      border: none;
+      color: white;
+      padding: 15px 45px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+    .buttons {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    
+    }
+    .main{
+      width: 100%;
+      position: absolute;
+      text-align: center;
+     
+    }
+    .main p{
+    margin: 20px auto;
+    font-weight: 100;
+    line-height: 25px;
+    color:#5900fd;
+    font-family: Bahnschrift SemiBold;
+    }
+    .main button{
+    width: 150px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #f50000;
+    color:#0e0d0c;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    }
+    .footer {
+        background-color: #000000;
+        color: #08f700fb;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .footer p {
+        margin: 0;
+    }    
